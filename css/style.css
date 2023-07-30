@@ -1596,12 +1596,13 @@ img{
 	font-size: 20px;
 	line-height: 30px;
 	color:#c21f24;
-	font-weight: 400;
+	font-weight: bold;
 	text-transform: capitalize;
 	cursor: default;
 	padding-right:  20px;
 	margin-right: 20px;
-	font-family: "Schoolbell", sans-serif;
+	font-style: italic;
+	font-family: "Bookman Old Style Bold Italic", cursive;
 }
 
 .page-title .bread-crumb li:before{
@@ -1674,7 +1675,8 @@ img{
 	font-size: 20px;
 	line-height: 1.2em;
 	color: #ed1a95;
-	font-weight: 400;
+	font-weight: bold;
+	font-style: italic;
 	font-family: "Bookman Old Style Bold Italic", cursive;
 	margin-bottom: 10px;
 }
@@ -1773,7 +1775,8 @@ img{
 	font-size: 30px;
 	color: #ffffff;
 	line-height: 1.2em;
-	font-weight: 400;
+	font-weight: bold;
+	font-style: italic;
 	font-family: "Bookman Old Style Bold Italic", cursive;
 }
 
@@ -1859,7 +1862,8 @@ img{
 	color: #ed1a95;
 	padding: 0;
 	line-height: 1.2em;
-	font-weight: 400;
+	font-weight: bold;
+	font-style: italic;
 	font-family: "Bookman Old Style Bold Italic", cursive;
 }
 
@@ -2020,7 +2024,8 @@ img{
 	font-size: 18px;
 	line-height: 1.2em;
 	color: #ffffff;
-	font-weight: 400;
+	font-weight: bold;
+	font-style: italic;
 	font-family: "Bookman Old Style Bold Italic", cursive;
 	margin-bottom: 2px;
 }
@@ -3474,7 +3479,8 @@ img{
 	font-size: 20px;
 	line-height: 1.2em;
 	color: #ed1a95;
-	font-weight: 400;
+	font-weight: bold;
+	font-style: italic;
 	font-family: "Bookman Old Style Bold Italic", cursive;
 }
 
@@ -4167,7 +4173,8 @@ img{
 	font-size: 30px;
 	line-height: 1.2em;
 	color: #ffffff;
-	font-weight: 400;
+	font-weight: bold;
+	font-style: italic;
 	font-family: "Bookman Old Style Bold Italic", cursive;
 }
 
